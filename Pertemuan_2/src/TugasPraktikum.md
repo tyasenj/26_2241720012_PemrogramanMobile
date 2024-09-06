@@ -14,9 +14,9 @@ Absen: 26
 
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
 
-<img  src = "docs\gambar1.jpg">
+<img src = "/docs/gambar1.jpg">
 
-<img  src = "docs\gambar2.jpg">
+<img src = "/docs/gambar2.jpg">
 
 ---
 
