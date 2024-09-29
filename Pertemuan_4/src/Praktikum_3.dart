@@ -14,9 +14,6 @@
 //     18: 2,
 //   };
 
-//   print(gifts);
-//   print(nobleGases);
-
 //   var mhs1 = Map<String, String>();
 //   gifts['first'] = 'partridge';
 //   gifts['second'] = 'turtledoves';
@@ -26,6 +23,9 @@
 //   nobleGases[2] = 'helium';
 //   nobleGases[10] = 'neon';
 //   nobleGases[18] = 'argon';
+
+//   print(gifts);
+//   print(nobleGases);
 // }
 
 //menambahkan elemen nama dan nim pada variabel

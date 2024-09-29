@@ -1,8 +1,10 @@
 //LANGKAH 1
-void main() {
-  var halogens = {'fluorine', 'chlorine', 'bromine', 'iodine', 'astatine'};
-  print(halogens);
+// void main() {
+//   var halogens = {'fluorine', 'chlorine', 'bromine', 'iodine', 'astatine'};
+//   print(halogens);
+// }
 
+void main() {
   var names1 = <String>{}; // Set kosong yang tipe datanya String
   Set<String> names2 = {}; // Set kosong yang tipe datanya String
 
