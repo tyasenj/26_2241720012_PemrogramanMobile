@@ -8,6 +8,6 @@ Kelas: 3H
 
 ---
 
-**Praktikum **
+**Praktikum**
 
 https://github.com/tyasenj/book
